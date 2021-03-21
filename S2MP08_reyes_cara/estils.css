@@ -1,0 +1,351 @@
+.cap{
+  width: 400px;
+  height: 600px;
+  border: solid 1px brown;
+  background-color: #DB9A7C;
+  border-radius: 100% 120% 150% 150%;
+
+
+}
+
+.cabell{
+  width: 390px;
+  height: 125px;
+ position: relative;
+  background-color: d;
+
+  border-radius:  100px 100px 50px 50px ;
+}
+.cabell02{
+  width: 450px;
+  height: 900px;
+  border-radius: 20%;
+  position: relative;
+  left: -20px;
+  top: -150px;
+   z-index: -1;
+  background-color: black;
+}
+.cabell01{
+  width: 310px;
+  height: 140px;
+  border-radius: 80%;
+  background-color: blac;
+z-index: 1;
+ transform:rotate(40deg);
+  position:relative;
+  left: 175px;
+  top: 40px;
+}
+
+
+.ulls{
+   width: 400px;
+  height: 155px;
+  background-color: lue;
+
+}
+.nas{
+  width: 400px;
+  height: 135px;
+  background-color: ellow;
+
+}
+.boca{
+  width: 400px;
+  height: 135px;
+  background-color: range;
+
+}
+
+.cella{
+  width: 400px;
+  height: 50px;
+
+}
+
+.cella01{
+  width: 160px;
+  height: 30px;
+  position:relative;
+  border-radius:    400px 35px 0 0;
+ left: 15px;
+   opacity: 80%;
+ background:lineal-gradient( black 50%, #29282E 50%   );
+  background-color: black;
+}
+.cella02{
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  float-left: 20px;
+  position:relative;
+  left: 230px;
+  top:-30px;
+  opacity: 80%;
+  border-radius: 35px 400px 0px 0;
+}
+
+.triangulo01{
+   width: 0;
+  height: 0;
+  border-left: 25px solid black;
+  border-top: 25px solid transparent;
+  border-bottom: 30px solid transparent;
+  position:relative;
+  transform:rotate(95deg);
+  top: -354px;
+  left: 18px;
+
+}
+.triangulo02{
+   width: 0;
+  height: 0;
+  border-left: 18px solid black;
+  border-top: 18px solid transparent;
+  border-bottom: 30px solid transparent;
+  position:relative;
+  transform:rotate(216deg);
+  top: -418px;
+  left: 368px;
+
+}
+.ull01{
+  width: 95px;
+  height: 95px;
+  border-radius: 100px 10px 100px 10px;
+  transform:rotate(45deg);
+  position:relative;
+  left: 50px;
+
+  box-shadow: -1em -0.10rem  ;
+  background-color: white;
+}
+
+.ull02{
+  width: 95px;
+  height: 95px;
+  border-radius: 100px 10px 100px 10px;
+  transform:rotate(45deg);
+  position:relative;
+  box-shadow: -0.05em -1rem;
+  left: 255px;
+  top: -96px;
+ box-shadow: 90px, 100px, 100px, 100px black;
+  background-color: white;
+}
+
+.iris01{
+   width: 65px;
+  height: 65px;
+   border-radius: 70%;
+  position: relative;
+  top: -175px;
+  left: 65px;
+ background: radial-gradient( #613B0E 10%, #E6AF6C 26%, #61482B  , #613B0E  );
+
+}
+.iris02{
+   width: 65px;
+  height: 65px;
+   border-radius: 70%;
+  position: relative;
+
+  top: -240px;
+  left: 270px;
+
+  background: radial-gradient( #613B0E 10%, #E6AF6C 26%, #61482B , #613B0E );
+}
+
+.pupila01{
+   width: 20px;
+  height: 20px;
+  border-radius: 80%;
+   background-color: black;
+position:relative;
+  opacity: 75%;
+  top: -284px;
+  left: 89px;
+}
+
+.pupila02{
+  width: 20px;
+  height: 20px;
+  border-radius: 80%;
+  opacity: 75%;
+   background-color: black;
+position:relative;
+  top: -302px;
+  left:294px;
+}
+
+.labio01{
+  width: 135px;
+  height: 40px;
+  borde: solid 1px #F51C09;
+  border-radius: 0px 0px  100px 100px;
+transform:rotat(45deg);
+  position:relative;
+  box-shadow: 0.1rem 0.10rem 0.10rem ;
+  top:150px;
+  left: 132px;
+
+   background-color: #AD271D;
+
+
+}
+
+.labio02{
+    width: 70px;
+    height: 26px;
+border-radius: 0 0 100px 100px ;
+
+  box-shadow: 0.1rem -0.10rem ;
+   background-color:  #AD271D;
+   transform:rotate(180deg);
+  position:relative;
+  left: 132px;
+  top:84px;
+
+}
+
+.labio03{
+   width: 70px;
+    height: 26px;
+border-radius: 100px 100px  0 0 ;
+ box-shadow: 0.1rem 0.10rem ;
+
+
+   background-color: #AD271D;
+  position:relative;
+  left: 195px;
+  top: 58px;
+}
+
+.piercing{
+  width:25px;
+   height: 25px;
+  border-radius: 90%;
+  transform:rotate(45deg);
+  background-color: transparent;
+  box-shadow: -0.10rem 0.25rem grey;
+  position:relative;
+  left: 170px;
+  top: 30px;
+
+}
+
+.fosa01{
+   width: 50px;
+   height: 5px;
+  transform:rotate(90deg);
+  border-radius: 25% 60% / 0% 100%;
+  background-color:brown;
+  opacity: 25%;
+  position:relative;
+  top: 100px;
+  left: 146px;
+}
+.fosa02{
+   width: 50px;
+   height: 5px;
+  transform:rotate(80deg);
+  border-radius: 25% 60% / 0% 100%;
+  background-color:brown;
+  opacity: 25%;
+  position:relative;
+  top: 100px;
+  left: 205px;
+}
+
+.fosa03{
+   width: 40px;
+   height: 40px;
+  transform:rotate(45deg);
+  border-radius:  100%;
+  box-shadow: 0.20rem -0.15rem  brown;
+  opacity: 40%;
+  background-color:#DB9A7C;
+  position:relative;
+  top: 150px;
+  left: 215px;
+}
+
+.fosa04{
+   width: 40px;
+   height: 40px;
+  transform:rotate(190deg);
+  border-radius:  100%;
+  box-shadow: 0.20rem -0.15rem  brown;
+  opacity: 40%;
+  background-color:#DB9A7C;
+  position:relative;
+  top: 110px;
+  left: 150px;
+}
+
+.fosa05{
+   width: 15px;
+   height: 20px;
+  transform:rotate(-90deg);
+  border-radius:  100%;
+  box-shadow: 0.5rem -0.15rem  brown;
+  opacity: 40%;
+  background-color:#DB9A7C;
+  position:relative;
+  top: 95px;
+  left: 175px;
+}
+
+.fosa06{
+   width: 15px;
+   height: 20px;
+  transform:rotate(-60deg);
+  border-radius:  100%;
+  box-shadow: 0.5rem -0.15rem  brown;
+  opacity: 40%;
+  background-color:#DB9A7C;
+  position:relative;
+  top: 75px;
+  left: 220px;
+}
+
+.hombros01{
+
+  width: 150px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid #DB9A7C;
+
+ position:relative;
+  left: 70px;
+  top: 130px;
+  z-index:-1;
+
+}
+
+.cella02{
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  float-left: 20px;
+  position:relative;
+  left: 230px;
+  top:-30px;
+  opacity: 80%;
+  border-radius: 35px 400px 0px 0;
+  animation: cella 2s ;
+
+	transform-origin:100px 100px;
+}
+@keyframes cella {
+	from {
+		position:relative;
+   Top:-50px;
+	}
+	to {
+		position:relative;
+   left: 230px;
+	}
+}
