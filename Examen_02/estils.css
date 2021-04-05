@@ -1,0 +1,121 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+  background: url('img/fons.jpg');
+  font-family: helvetica, arial, sans-serif;
+}
+
+.contenedor{
+  width:  960px;
+  height: 589px;
+
+  margin: 0 auto;
+
+}
+
+.cos{
+  width: 960px;
+  height: 780px;
+
+  margin: 0 auto;
+
+
+}
+
+.almacenar{
+  height:240px;
+  width: 300px;
+
+  margin: 10px;
+  float: left;
+  transform-origin: right;
+  opacity: 50%;
+
+}
+
+.almacenar:hover{
+  opacity: 100%;
+  transform: rotateY(25deg);
+  transform-origin: left;
+}
+h1{
+  text-align: center;
+  font-size: 4rem;
+  line-height: 2rem;
+
+}
+.almacenar p {
+    height: 240px;
+
+
+
+
+}
+.peu{
+
+
+
+
+margin:0 auto;
+text-align: center;
+
+}
+img{
+  height:200px;
+  width: 300px;
+  font-size: 100%;
+}
+
+
+
+
+
+.animacio{
+  height: 589px;
+  background-size: auto;
+  animation: cars 10s infinite;
+}
+
+@keyframes cars{
+
+  0% {
+    background-image: url(img/ani/01back.png);
+  }
+
+  11.1% {
+    background-image: url(img/ani/02bean.png);
+  }
+
+  22.2% {
+    background-image: url(img/ani/03bond.png);
+  }
+
+  33.3% {
+    background-image: url(img/ani/04break.png);
+  }
+
+  44.4% {
+    background-image: url(img/ani/05ghost.png);
+  }
+
+  55.5% {
+    background-image: url(img/ani/pulp.png);
+  }
+
+  66.6% {
+    background-image: url(img/ani/06pulp.png);
+  }
+
+  77.7% {
+    background-image: url(img/ani/taxi.png);
+  }
+
+  88.8% {
+    background-image: url(img/ani/07rider.png);
+  }
+
+100% {
+    background-image: url(img/ani/09team.png);
+  }
+
+}
