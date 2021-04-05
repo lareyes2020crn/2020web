@@ -1,0 +1,132 @@
+body{
+  background: #222;
+  margin: 0px;
+  padding: 0px;
+}
+.barra{
+  height: 3.125rem;
+  margin:0px;
+  padding: 0;
+  background-color: black;
+  background opacity: 50%;
+text-decoration: none;
+display: block;
+
+}
+
+#logo{
+padding: 0.315rem 1.25rem 0.315rem 1.25rem;
+float: left;
+
+}
+.izquierda{
+  float: left;
+
+}
+.derecha{
+  float: right;
+}
+
+
+.Documentals{
+  width: 10.9375rem;
+    margin: 0.625rem;
+
+
+  float: left;
+
+}
+a{
+
+  color: white;
+text-decoration:  underline;
+}
+a:hover{
+  background:grey;
+  opacity: 50%;
+text-decoration:  underline;
+}
+
+
+.gris{
+    filter: grayscale(160%);
+}
+li{
+  display: inline-block;
+  margin: auto;
+
+}
+.text{
+  font-family: 5rem;
+}
+b{
+  font-size: 1.5rem;
+}
+h1{
+  color: #FFF;
+  font-size: 1.375rem;
+  font-family: Helvetica;
+  margin: 0;
+  margin-left: 0.8rem;
+  clear: both;
+}
+h2{
+  color:#CCC;
+  font-size: 0.875rem;
+}
+
+p{
+  color:#CCC;
+  font-size: 0.68rem;
+}
+
+li{
+  display: inline-block;
+  height: 30px;
+  padding: 5px;
+  line-height: 30px;
+  text-decoration: none;
+}
+#docu{
+  float: left;
+}
+
+
+#Documentals:hover{
+  background:#FFF;
+  float: left;
+    color: ;
+    margin-right: 0.3125rem;
+
+}
+#nom{
+  margin: 0;
+  padding: 0;
+  color: #CCC;
+  font-size: 0.875rem;
+  font-family: Helvetica ;
+}
+#data{
+color: #CCC;
+float: left;
+font-size:0.6875rem;
+margin-right: 4.9rem;
+font-family: Helvetica ;
+}
+#docu{
+font-family: Helvetica ;
+color: #CCC;
+font-size:0.6875rem;
+float: right;
+}
+
+#imatges{
+  border-radius: 0.5rem;
+}
+
+#imatges:hover{
+opacity: 0.6;
+}
+.segundo{
+  filter:grayscale(100%);
+}
